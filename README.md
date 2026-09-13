@@ -517,6 +517,8 @@ Results of the model with optimal hyperparameters:
 * Test ROC-AUC: 0.912
 * Test accuracy: 0.845
 
+![1789306802236](image/README/1789306802236.png)
+
 #### XGBoost
 
 A grid search was done with a stratified 10 fold and standardization. The scoring was done with ROC-AUC:
